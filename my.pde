@@ -1,6 +1,4 @@
-/* @pjs preload="rock.jpg" */
-/* @pjs preload="paper.jpg" */
-/* @pjs preload="scissors.jpg" */
+/* @pjs preload="rock.jpg,paper.jpg,scissors.jpg" */
 PImage a,b,c;
 int your;
 int ai,score,i,i1,i2,i3;
